@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In which of the following is the interference due to the division of wave front?",
+      "answers": {
+        "a": "Young’s double slit experiment",
+        "b": "Demonstration colours of thin film",
+        "c": "Lloyd’s mirror experiment",
+        "d": "Fresnel’s biprism experiment"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If a torch is used in place of monochromatic light in Young’s experiment what will happens?",
+      "answers": {
+        "a": "Fringe will appear for a moment then it will disappear",
+        "b": "No fringes will appear",
+        "c": "Only bright fringes will appear",
+        "d": "Fringes will occur as from monochromatic light"
+      },
+      "explanations": {
+        "a": "Explanation 1 ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
