@@ -6,7 +6,7 @@
 <li> <p>step3: set value for d(distance between the slits). </p></li>
 <li> <p>step4: set value for 𝛽(Fringe width)</p></li>
 <li> <p> Study the graph in order to understand fringe width which is given by -</p></li>
-<li> <p><img src="{{url_for('static' , filename='img/eq24.png')}}" alt="destructive" width="300px" height="95px"><br></p></li>
+<li> <p><img src="images/eq24.png" alt="destructive" width="300px" height="95px"><br></p></li>
 <br>
 <b><p ><u> Perform the following experiment</u></p></b>
 <p>
@@ -70,7 +70,7 @@ Perform the following experiment to verfiy the wavelength(λ<sub>t</sub>) of the
 <ul type="None">
 <li><p >Value of λ<sub>t</sub> taken :____________</li>
 <li><p > The mean value of λ<sub>c</sub>: _________ </li>
-<p><img src="{{url_for('static' , filename='img/eq27.png')}}" alt="destructive" width="600px" height="150px"><br></p>
+<p><img src="images/eq27.png" alt="destructive" width="600px" height="150px"><br></p>
 <li> <p > <u>Result:</u></p></li> 
 <li><p>λ<sub>c</sub> is = ________________ and Percentage error =______________</p></li> 
 </ul>  

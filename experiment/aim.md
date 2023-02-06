@@ -1,1 +1,1 @@
-### Aim of the experiment
+To verify the wavelength of the given monochromatic light source.
