@@ -63,7 +63,7 @@ Constructive interference:<br>
 <p ><strong>Fringe width:-</strong></p>
 <p>It is defined as the distance between two alternative dark or bright bands. </p>
 <p>Expression for fringe width:-</p>
-<p><img src="{{url_for('static' , filename='img/eq24.png')}}" alt="destructive"width=250px><br></p><p>where:-<br>
+<p><img src="images/eq24.png" alt="destructive"width=250px><br></p><p>where:-<br>
 <ul type="None">
 <li> <p>𝛽 = fringe width(m) </p> </li> 
 <li> <p>λ = wavelength of wave (nm)</p></li> 
