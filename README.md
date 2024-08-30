@@ -10,7 +10,7 @@
 
 The experiment is designed to verify the wavelength of the given monochromatic light source.
 
-<b>Sania Verma | <b> Professor Sukhdev Roy 
+<b>Name of Developer | <b> Professor Sukhdev Roy 
 :--|:--|
 <b> Institute | <b>  Dayalbagh Educational Institute(D.E.I.)
 <b> Email id|     <b>  sukhdevroy@dei.ac.in
