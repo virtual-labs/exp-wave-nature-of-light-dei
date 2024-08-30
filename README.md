@@ -3,18 +3,18 @@
 
 <b>Discipline | <b>Fill your discipline name here
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Waves, Optics and Quantum Mechanics
+<b> Experiment|     <b> Wave nature of light with Young’s double-slit experiment 
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+The experiment is designed to verify the wavelength of the given monochromatic light source.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Sania Verma | <b> Professor Sukhdev Roy 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Dayalbagh Educational Institute(D.E.I.)
+<b> Email id|     <b>  saniav2711@gmail.com
+<b> Department |  Mechanical Engineering
 
 ### Contributors List
 
