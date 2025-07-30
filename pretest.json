@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Fringe width in a particular YDSE measured to be `beta`. What will be the fringe width if the wavelength of the light is doubled,the separation between the slits is halved and separation betweeen the screen and slits is tripled?",
+      "answers": {
+        "a": "10 Times",
+        "b": "11 Times",
+        "c": "Same",
+        "d": "12 times"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Two coherent sources are `0.3mm` apart . They are `1m` away from the screen . The second dark fringe is at a distance of `0.3cm` from the center. The distance of the fourth bright fringe from the centre is?",
+      "answers": {
+        "a": "0.6cm",
+        "b": "0.8cm",
+        "c": "1.2cm",
+        "d": "0.12cm"
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
