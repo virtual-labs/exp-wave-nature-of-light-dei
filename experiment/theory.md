@@ -1,10 +1,8 @@
-# Young's Double Slit Experiment
-
 Wave-A wave is a propagation of disturbance.
 
 **Example:** When we make a sharp needle vibrate in a calm pool of water, a circular pattern spreads out from the point of impact. The vibrating needle creates a disturbance that propagates outwards. In this propagation, the water molecules do not move; instead, they move in nearly circular orbits about an equilibrium position. Once the disturbance has passed a certain region, every drop of water is left at its original position.
 
-## Nature of light
+### Nature of light
 
 The light possesses two natures according to the particle duality of nature.
 
@@ -20,7 +18,7 @@ The light possesses two natures according to the particle duality of nature.
    **Incandescence:** It is the emission of light from hot matter.  
    **Luminescence:** It is the emission of light during the fall of excited electrons to the ground level.
 
-## Interference
+### Interference
 
 When two lights of the same frequency travel simultaneously in the same direction and have a constant phase difference, then there is a modification in the intensity of light in the region of superposition. The modification is the intensity of light due to the superposition of two (or more) waves, which is called interference. Interference is of two types:
 
@@ -60,11 +58,11 @@ When two lights of the same frequency travel simultaneously in the same directio
   - λ: wavelength of light (m)
   - D: distance from slit to screen (m)
 
-## Interference Fringes
+### Interference Fringes
 
 When two light waves are made to interfere, we get alternate dark and bright bands of a regular or irregular shape. These are called interference fringes.
 
-## Young's double experiment
+### Young's double experiment
 
 When the light is allowed to fall on a pinhole S and then through two pinholes, S₁ and S₂, placed at a distance d, then two spherical waves emerging from S₁ and S₂ merge together, and alternating bright and dark bands are observed on the screen, which is at distance D from the two sources. The resultant amplitude obtained is greater.
 
@@ -73,16 +71,16 @@ When the light is allowed to fall on a pinhole S and then through two pinholes, 
    
    **Coherent sources:** When two light waves having sharply defined phase difference that remains constant with time, they are said to be coherent. They can be obtained via two different methods as follows:
 
-### Division of wavefront
+#### Division of wavefront
 
 1. **Lloyd's mirror:** In this device, a slit s and its virtual image s' are formed by reflection at a mirror.
 2. **Fresnel's biprism:** Coherent sources formed by refraction from a biprism.
 
-### Division of amplitude
+#### Division of amplitude
 
 1. **Thin films:** In this, coherent sources are obtained by division of amplitude.
 
-## Fringe width
+### Fringe width
 
 It is defined as the distance between two alternative dark or bright bands.
 
