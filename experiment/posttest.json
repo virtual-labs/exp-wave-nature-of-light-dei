@@ -10,16 +10,16 @@
         "d": "Fresnel’s biprism experiment"
       },
       "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct: YDSE uses division of wavefront.",
+        "b": "Incorrect: Thin film colours are due to division of amplitude.",
+        "c": "Incorrect: Lloyd’s mirror is also division of amplitude.",
+        "d": "Incorrect: Fresnel's biprism is division of wavefront but here the correct choice is YDSE."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "If a torch is used in place of monochromatic light in Young’s experiment what will happens?",
+      "question": "If a torch is used in place of monochromatic light in Young’s experiment what will happen?",
       "answers": {
         "a": "Fringe will appear for a moment then it will disappear",
         "b": "No fringes will appear",
@@ -27,12 +27,63 @@
         "d": "Fringes will occur as from monochromatic light"
       },
       "explanations": {
-        "a": "Explanation 1 ",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect: The fringes will not be stable even for a moment due to different wavelengths mixing.",
+        "b": "Incorrect: There will be light, but no clear interference pattern.",
+        "c": "Correct: Multiple wavelengths wash out the pattern, leaving overall bright illumination.",
+        "d": "Incorrect: Polychromatic light cannot give sharp fringes like monochromatic light."
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The fringe width in YDSE is doubled if:",
+      "answers": {
+        "a": "The wavelength of light is doubled",
+        "b": "The screen distance is doubled",
+        "c": "The slit separation is halved",
+        "d": "Any of the above"
+      },
+      "explanations": {
+        "a": "Doubling λ doubles β because β ∝ λ.",
+        "b": "Doubling D doubles β because β ∝ D.",
+        "c": "Halving d doubles β because β ∝ 1/d.",
+        "d": "Correct: Any of these changes will double β."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In YDSE, what happens to the interference fringes if the experiment is performed in water (μ > 1)?",
+      "answers": {
+        "a": "Fringes disappear",
+        "b": "Fringe width increases",
+        "c": "Fringe width decreases",
+        "d": "Fringe width remains same"
+      },
+      "explanations": {
+        "a": "Incorrect: Fringes do not vanish simply due to a medium.",
+        "b": "Incorrect: μ > 1 reduces wavelength, so fringe width shrinks.",
+        "c": "Correct: λ' = λ/μ, so β decreases.",
+        "d": "Incorrect: Change in wavelength changes β."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the path difference between two coherent light waves is λ/2, what type of interference occurs?",
+      "answers": {
+        "a": "Constructive interference",
+        "b": "Destructive interference",
+        "c": "No interference",
+        "d": "Maximum intensity"
+      },
+      "explanations": {
+        "a": "Incorrect: λ/2 leads to cancellation, not addition.",
+        "b": "Correct: λ/2 phase difference gives destructive interference.",
+        "c": "Incorrect: Interference still occurs.",
+        "d": "Incorrect: λ path difference gives maximum intensity, not λ/2."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
