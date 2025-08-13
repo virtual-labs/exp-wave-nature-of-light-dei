@@ -1,4 +1,4 @@
-<p><u>Procedure for the experiment is as follows:</u></p>			
+<b><p><u>Procedure for the experiment is as follows:</u></p></b>		
 
 <strong><p style="color:#2867B2;">To study the Young's Double Slit Experiment</p></strong>
 
@@ -56,7 +56,7 @@
 <ul type="None">
   <li><p>Value of λ<sub>t</sub> taken: ____________</p></li>
   <li><p>The mean value of λ<sub>c</sub>: ___________</p></li>
-  <li style="text-align:center;">
+  <li>
     <p><img src="images/eq27.png" alt="Percentage Error Equation" width="600px" height="150px"></p>
   </li>
   <li><p><u>Result:</u></p></li>
