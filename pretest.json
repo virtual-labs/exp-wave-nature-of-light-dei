@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Fringe width in a particular YDSE measured to be `beta`. What will be the fringe width if the wavelength of the light is doubled, the separation between the slits is halved and the separation between the screen and slits is tripled?",
+      "answers": {
+        "a": "10 Times",
+        "b": "11 Times",
+        "c": "Same",
+        "d": "12 times"
+      },
+      "explanations": {
+        "a": "Incorrect: This would require a factor of 10, but the combined effect is larger.",
+        "b": "Incorrect: 11× change is not correct for the given changes in parameters.",
+        "c": "Incorrect: Parameters are changing, so fringe width will not remain same.",
+        "d": "Correct: β' = (2λ × 3D) / (d/2) = 12 × β."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Two coherent sources are `0.3mm` apart. They are `1m` away from the screen. The second dark fringe is at a distance of `0.3cm` from the center. The distance of the fourth bright fringe from the centre is?",
+      "answers": {
+        "a": "0.6cm",
+        "b": "0.8cm",
+        "c": "1.2cm",
+        "d": "0.12cm"
+      },
+      "explanations": {
+        "a": "Incorrect: This would be 3× the fringe width, not 4×.",
+        "b": "Correct: Fringe width β = 0.2 cm, so 4th bright fringe is 4 × 0.2 = 0.8 cm.",
+        "c": "Incorrect: 1.2 cm corresponds to 6th bright fringe.",
+        "d": "Incorrect: This is much smaller than actual fringe spacing."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the distance between slits `d` is doubled while keeping wavelength λ and screen distance D fixed, how does the fringe width β change?",
+      "answers": {
+        "a": "Halves",
+        "b": "Doubles",
+        "c": "Same",
+        "d": "Quadruples"
+      },
+      "explanations": {
+        "a": "Correct: β = λD/d, so doubling d makes β half.",
+        "b": "Incorrect: Doubling d cannot make β bigger.",
+        "c": "Incorrect: Changing d changes β.",
+        "d": "Incorrect: This would happen only if λ and D also increased."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In YDSE, what is the condition for the m-th bright fringe?",
+      "answers": {
+        "a": "d sinθ = (m + 1/2)λ",
+        "b": "d sinθ = mλ",
+        "c": "sinθ = (m + 1/2)λ",
+        "d": "tanθ = mλ"
+      },
+      "explanations": {
+        "a": "Incorrect: This is for dark fringes.",
+        "b": "Correct: Bright fringes occur when path difference = mλ.",
+        "c": "Incorrect: Missing the slit separation factor d.",
+        "d": "Incorrect: This is not the correct condition in YDSE."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the central maximum intensity is I₀, the intensity of the first bright fringe (n=1) in ideal equal-amplitude double-slit interference is:",
+      "answers": {
+        "a": "I₀",
+        "b": "I₀/2",
+        "c": "I₀/4",
+        "d": "0"
+      },
+      "explanations": {
+        "a": "Correct: All bright fringes have same peak intensity in ideal case without envelope effect.",
+        "b": "Incorrect: No such halving occurs for ideal equal amplitudes.",
+        "c": "Incorrect: This is far too small for a maximum.",
+        "d": "Incorrect: Maxima cannot have zero intensity."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
