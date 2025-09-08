@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "In which of the following is the interference due to the division of wave front?",
+      "question": "1. In which of the following is the interference due to the division of wave front?",
       "answers": {
         "a": "Young’s double slit experiment",
         "b": "Demonstration colours of thin film",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "If a torch is used in place of monochromatic light in Young’s experiment what will happen?",
+      "question": "2. If a torch is used in place of monochromatic light in Young’s experiment what will happen?",
       "answers": {
         "a": "Fringe will appear for a moment then it will disappear",
         "b": "No fringes will appear",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The fringe width in YDSE is doubled if:",
+      "question": "3. The fringe width in YDSE is doubled if:",
       "answers": {
         "a": "The wavelength of light is doubled",
         "b": "The screen distance is doubled",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "In YDSE, what happens to the interference fringes if the experiment is performed in water (μ > 1)?",
+      "question": "4. In YDSE, what happens to the interference fringes if the experiment is performed in water (μ > 1)?",
       "answers": {
         "a": "Fringes disappear",
         "b": "Fringe width increases",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "If the path difference between two coherent light waves is λ/2, what type of interference occurs?",
+      "question": "5. If the path difference between two coherent light waves is λ/2, what type of interference occurs?",
       "answers": {
         "a": "Constructive interference",
         "b": "Destructive interference",
