@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Fringe width in a particular YDSE measured to be `beta`. What will be the fringe width if the wavelength of the light is doubled, the separation between the slits is halved and the separation between the screen and slits is tripled?",
+      "question": "1. Fringe width in a particular YDSE measured to be `beta`. What will be the fringe width if the wavelength of the light is doubled, the separation between the slits is halved and the separation between the screen and slits is tripled?",
       "answers": {
         "a": "10 Times",
         "b": "11 Times",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Two coherent sources are `0.3mm` apart. They are `1m` away from the screen. The second dark fringe is at a distance of `0.3cm` from the center. The distance of the fourth bright fringe from the centre is?",
+      "question": "2. Two coherent sources are `0.3mm` apart. They are `1m` away from the screen. The second dark fringe is at a distance of `0.3cm` from the center. The distance of the fourth bright fringe from the centre is?",
       "answers": {
         "a": "0.6cm",
         "b": "0.8cm",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "If the distance between slits `d` is doubled while keeping wavelength λ and screen distance D fixed, how does the fringe width β change?",
+      "question": "3. If the distance between slits `d` is doubled while keeping wavelength λ and screen distance D fixed, how does the fringe width β change?",
       "answers": {
         "a": "Halves",
         "b": "Doubles",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "In YDSE, what is the condition for the m-th bright fringe?",
+      "question": "4. In YDSE, what is the condition for the m-th bright fringe?",
       "answers": {
         "a": "d sinθ = (m + 1/2)λ",
         "b": "d sinθ = mλ",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "If the central maximum intensity is I₀, the intensity of the first bright fringe (n=1) in ideal equal-amplitude double-slit interference is:",
+      "question": "5. If the central maximum intensity is I₀, the intensity of the first bright fringe (n=1) in ideal equal-amplitude double-slit interference is:",
       "answers": {
         "a": "I₀",
         "b": "I₀/2",
