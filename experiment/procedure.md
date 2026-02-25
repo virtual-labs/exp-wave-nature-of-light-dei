@@ -1,13 +1,10 @@
-<p><u>Procedure for the experiment is as follows:</u></p>			
-
 <strong><p style="color:#2867B2;">To study the Young's Double Slit Experiment</p></strong>
 
 <ul type="None">
-  <li><p><b>Step 1:</b> Read the theory.</p></li>
-  <li><p><b>Step 2:</b> Set some value for <b>D</b> (distance from slits to the screen).</p></li>
-  <li><p><b>Step 3:</b> Set value for <b>d</b> (distance between the slits).</p></li>
-  <li><p><b>Step 4:</b> Set value for <b>𝛽</b> (Fringe width).</p></li>
-  <li><p>Study the graph in order to understand fringe width, which is given by:</p></li>
+  <li><p><b>Step 1:</b> Set some value for <b>D</b> (distance from slits to the screen).</p></li>
+  <li><p><b>Step 2:</b> Set value for <b>d</b> (distance between the slits).</p></li>
+  <li><p><b>Step 3:</b> Set value for <b>λ</b> (wavelength) to observe <b>β</b> (fringe width).</p></li>
+  <li><p>Study the graph to understand fringe width, which is given by:</p></li>
   <li style="text-align:center;">
     <p><img src="images/eq24.png" alt="Fringe Width Equation" width="300px" height="95px"></p>
   </li>
@@ -19,18 +16,23 @@
 
 <strong><p><u>Experiment:</u></p></strong>
 
-<p><u>Aim:</u> Perform the following experiment to verify the wavelength (λ<sub>t</sub>) of the given monochromatic source and to find out the percentage error.</p>
+<p><u>Aim:</u> Verify the wavelength (λ<sub>t</sub>) of the given monochromatic source and find out the percentage error.</p>
 
 <ol>
   <li><p>Set some value for <b>D</b> (distance from slits to the screen).</p></li>
   <li><p>Set value of <b>d</b> (distance between the slits).</p></li>
-  <li><p>Calculate the value of fringe width (𝛽).</p></li>
-  <li><p>Repeat the experiment 5–6 times, and each time calculate the corresponding value of λ<sub>c</sub>.</p></li>
-  <li><p>Obtain the calculated value λ<sub>c</sub> by calculating the mean.</p></li>
-  <li><p>Verify the values of calculated λ<sub>c</sub> and given λ<sub>t</sub>, and thereby calculate the percentage error.</p></li>
+  <li><p>Set the value of <b>λ</b> or λ<sub>t</sub> (theoretical wavelength).</p></li>
+  <li><p>Calculate the value of fringe width (<b>β</b>).</p></li>
+  <li style="text-align:center;">
+    <p><img src="images/procedure_fig1.png" alt="Young's Double-Slit Interference" width="500px"></p>
+    <p><em>Fig. 4. Young's Double-Slit Interference.</em></p>
+  </li>
+  <li><p>Repeat the experiment 5–6 times; each time calculate the corresponding value of λ<sub>c</sub> using <b>λ<sub>c</sub> = β·d / D</b>.</p></li>
+  <li><p>Obtain the mean calculated value λ<sub>c</sub>.</p></li>
+  <li><p>Verify the values of λ<sub>c</sub> and λ<sub>t</sub>, and thereby calculate the percentage error.</p></li>
   <li><p>Where:<br>
-      λ<sub>c</sub> is the calculated value of wavelength.<br>
-      λ<sub>t</sub> is the theoretical value of wavelength.</p>
+      λ<sub>c</sub> = calculated value of wavelength.<br>
+      λ<sub>t</sub> = theoretical value of wavelength.</p>
   </li>
 </ol>
 

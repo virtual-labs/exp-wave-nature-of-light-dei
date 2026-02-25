@@ -1,1 +1,1 @@
-To verify the wavelength of the given monochromatic light source.
+To study the wave nature of light with Young's double slit experiment.
