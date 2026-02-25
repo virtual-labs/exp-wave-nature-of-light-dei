@@ -1,89 +1,174 @@
-{
+﻿{
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Fringe width in a particular YDSE measured to be `beta`. What will be the fringe width if the wavelength of the light is doubled, the separation between the slits is halved and the separation between the screen and slits is tripled?",
+      "question": "1. Young's double slit experiment demonstrates the",
       "answers": {
-        "a": "10 Times",
-        "b": "11 Times",
-        "c": "Same",
-        "d": "12 times"
+        "a": "Particle nature of light",
+        "b": "Wave nature of light",
+        "c": "Thermal nature of light",
+        "d": "Electrical nature of light"
       },
       "explanations": {
-        "a": "Incorrect: This would require a factor of 10, but the combined effect is larger.",
-        "b": "Incorrect: 11× change is not correct for the given changes in parameters.",
-        "c": "Incorrect: Parameters are changing, so fringe width will not remain same.",
-        "d": "Correct: β' = (2λ × 3D) / (d/2) = 12 × β."
+        "a": "Incorrect: Particle nature is demonstrated by the photoelectric effect, not YDSE.",
+        "b": "Correct: YDSE produces interference fringes, which is a wave phenomenon.",
+        "c": "Incorrect: Light has no thermal nature in this context.",
+        "d": "Incorrect: Light is not an electrical phenomenon in this context."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Constructive interference occurs when the path difference between two waves is",
+      "answers": {
+        "a": "(2n+1)λ/2",
+        "b": "nλ",
+        "c": "λ/4",
+        "d": "Zero only"
+      },
+      "explanations": {
+        "a": "Incorrect: This is the condition for destructive interference.",
+        "b": "Correct: Path difference = nλ leads to constructive interference (n = 0, 1, 2, …).",
+        "c": "Incorrect: λ/4 does not directly correspond to constructive or destructive interference.",
+        "d": "Incorrect: n = 0 is one special case; all integer multiples of λ give constructive interference."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. The condition for destructive interference in Young's double slit experiment is",
+      "answers": {
+        "a": "d sinθ = nλ",
+        "b": "d sinθ = (n + 1/2)λ",
+        "c": "d sinθ = λ",
+        "d": "d sinθ = 2nλ"
+      },
+      "explanations": {
+        "a": "Incorrect: This is the condition for constructive interference (bright fringes).",
+        "b": "Correct: Half-integer path difference causes complete cancellation (dark fringes).",
+        "c": "Incorrect: This is only the n = 1 bright fringe condition.",
+        "d": "Incorrect: 2nλ is not the standard condition for dark fringes."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The fringe width β in Young's double slit experiment is given by",
+      "answers": {
+        "a": "β = d / λD",
+        "b": "β = D / λd",
+        "c": "β = λD / d",
+        "d": "β = λdD"
+      },
+      "explanations": {
+        "a": "Incorrect: The formula inverts the correct relationship.",
+        "b": "Incorrect: This has the wrong arrangement of variables.",
+        "c": "Correct: β = λD/d is the standard fringe-width formula.",
+        "d": "Incorrect: This would increase with d, which contradicts the physics."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Two sources are said to be coherent if they",
+      "answers": {
+        "a": "Have different wavelengths",
+        "b": "Emit waves of varying phase difference",
+        "c": "Have the same frequency and constant phase difference",
+        "d": "Are placed very close to each other"
+      },
+      "explanations": {
+        "a": "Incorrect: Coherent sources must have the same wavelength.",
+        "b": "Incorrect: A varying phase difference destroys coherence and hence fringes.",
+        "c": "Correct: Coherence requires identical frequency and a time-invariant phase difference.",
+        "d": "Incorrect: Proximity alone does not make sources coherent."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Who performed the original double slit experiment to demonstrate the wave nature of light?",
+      "answers": {
+        "a": "Sir Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Thomas Young",
+        "d": "James Clerk Maxwell"
+      },
+      "explanations": {
+        "a": "Incorrect: Newton proposed the corpuscular (particle) theory of light.",
+        "b": "Incorrect: Einstein explained the photoelectric effect using photons.",
+        "c": "Correct: Thomas Young performed the double slit experiment in 1801.",
+        "d": "Incorrect: Maxwell developed the electromagnetic theory of light."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. In YDSE, what is the path difference at the central bright fringe?",
+      "answers": {
+        "a": "λ/2",
+        "b": "λ",
+        "c": "2λ",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "Incorrect: λ/2 path difference gives destructive interference.",
+        "b": "Incorrect: λ corresponds to the first bright fringe (n=1), not the central one.",
+        "c": "Incorrect: 2λ corresponds to the second order bright fringe.",
+        "d": "Correct: At the centre, both slits are equidistant so path difference = 0, giving maximum intensity."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "2. Two coherent sources are `0.3mm` apart. They are `1m` away from the screen. The second dark fringe is at a distance of `0.3cm` from the center. The distance of the fourth bright fringe from the centre is?",
+      "question": "8. In YDSE, if the distance D from slits to screen is increased, the fringe width β",
       "answers": {
-        "a": "0.6cm",
-        "b": "0.8cm",
-        "c": "1.2cm",
-        "d": "0.12cm"
+        "a": "Decreases",
+        "b": "Increases",
+        "c": "Remains the same",
+        "d": "Becomes zero"
       },
       "explanations": {
-        "a": "Incorrect: This would be 3× the fringe width, not 4×.",
-        "b": "Correct: Fringe width β = 0.2 cm, so 4th bright fringe is 4 × 0.2 = 0.8 cm.",
-        "c": "Incorrect: 1.2 cm corresponds to 6th bright fringe.",
-        "d": "Incorrect: This is much smaller than actual fringe spacing."
+        "a": "Incorrect: β = λD/d, so increasing D increases β.",
+        "b": "Correct: β is directly proportional to D.",
+        "c": "Incorrect: Fringe width is not independent of D.",
+        "d": "Incorrect: β cannot become zero unless D = 0."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "3. If the distance between slits `d` is doubled while keeping wavelength λ and screen distance D fixed, how does the fringe width β change?",
+      "question": "9. The phase difference corresponding to a path difference of λ (one wavelength) is",
       "answers": {
-        "a": "Halves",
-        "b": "Doubles",
-        "c": "Same",
-        "d": "Quadruples"
+        "a": "π",
+        "b": "π/2",
+        "c": "2π",
+        "d": "4π"
       },
       "explanations": {
-        "a": "Correct: β = λD/d, so doubling d makes β half.",
-        "b": "Incorrect: Doubling d cannot make β bigger.",
-        "c": "Incorrect: Changing d changes β.",
-        "d": "Incorrect: This would happen only if λ and D also increased."
+        "a": "Incorrect: Phase difference π corresponds to path difference λ/2.",
+        "b": "Incorrect: Phase difference π/2 corresponds to path difference λ/4.",
+        "c": "Correct: One complete wavelength (λ) corresponds to a phase difference of 2π radians.",
+        "d": "Incorrect: Phase difference 4π corresponds to path difference 2λ."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "4. In YDSE, what is the condition for the m-th bright fringe?",
+      "question": "10. In YDSE, if the wavelength of light used is increased, the fringe width β",
       "answers": {
-        "a": "d sinθ = (m + 1/2)λ",
-        "b": "d sinθ = mλ",
-        "c": "sinθ = (m + 1/2)λ",
-        "d": "tanθ = mλ"
+        "a": "Decreases",
+        "b": "Remains the same",
+        "c": "Increases",
+        "d": "Becomes zero"
       },
       "explanations": {
-        "a": "Incorrect: This is for dark fringes.",
-        "b": "Correct: Bright fringes occur when path difference = mλ.",
-        "c": "Incorrect: Missing the slit separation factor d.",
-        "d": "Incorrect: This is not the correct condition in YDSE."
+        "a": "Incorrect: β = λD/d, so β increases with λ.",
+        "b": "Incorrect: Fringe width depends on wavelength.",
+        "c": "Correct: β is directly proportional to λ.",
+        "d": "Incorrect: β becomes zero only if λ = 0."
       },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "5. If the central maximum intensity is I₀, the intensity of the first bright fringe (n=1) in ideal equal-amplitude double-slit interference is:",
-      "answers": {
-        "a": "I₀",
-        "b": "I₀/2",
-        "c": "I₀/4",
-        "d": "0"
-      },
-      "explanations": {
-        "a": "Correct: All bright fringes have same peak intensity in ideal case without envelope effect.",
-        "b": "Incorrect: No such halving occurs for ideal equal amplitudes.",
-        "c": "Incorrect: This is far too small for a maximum.",
-        "d": "Incorrect: Maxima cannot have zero intensity."
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]

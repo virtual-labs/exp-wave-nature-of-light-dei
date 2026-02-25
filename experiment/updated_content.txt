@@ -1,0 +1,150 @@
+﻿AIM
+To study the wave nature of light with Young's double slit experiment.
+1.	Young's Double Slit Experiment
+(i)	Wave: A wave is a disturbance that propagates through space or a medium, transferring energy from one point to another without transporting matter.
+Example: When we make a sharp needle vibrate in a calm pool of water, a circular pattern spreads out from the point of impact. The vibrating needle creates a disturbance that propagates outwards. In this propagation, the water molecules do not move; instead, they move in nearly circular orbits about an equilibrium position. Once the disturbance has passed a certain region, every drop of water is left at its original position.
+fig1. Fig. 1. Ray diagram of Young's Double Slit interference.(add image from images/theory_fig1.png)
+
+
+(ii)	Nature of Light
+Light exhibits wave-particle duality, meaning it behaves both as a wave and as a particle under different experimental conditions. 
+(iii)	Particle nature of light
+A particle is a discrete portion of matter. On the other hand, we refer to light particles as photons because of their particle nature. In the 17th Century, Sir Isaac Newton proposed the corpuscular theory of light, suggesting  that light consists of a stream of particles. He supported this idea because when he used a prism to split sunlight into different colours, the periphery of the shadows created was extremely sharp and clear.
+2.	Wave Nature of Light
+A wave is a periodic disturbance that propagates through space or medium, transferring energy without transporting matter. The wave nature of light states that light is a particular kind of electromagnetic wave.
+Humans can detect only a small portion of the electromagnetic spectrum, known as visible light. The first illustration of the wave nature of light was made using experiments on diffraction and interference. 
+3.	Interference
+When the two light waves of the same amplitudes travel simultaneously in the same direction and have a constant phase difference, then there is a modification in the intensity of light in the region of superposition. The modification is the intensity of light due to the superposition of two (or more) waves, which is called interference.
+Interference is formation of constructive interference (Bright fringes) and destructive interference (Dark fringes):
+1.	Constructive Interference: Constructive interference occurs where the lines (representing peaks) cross over each other. In other words, when two waves are in phase. 
+Fig. 2. Schematic diagram of constructive interference(add image from images/theory_fig2.png)
+
+Fig. 2. Schematic diagram of constructive interference.
+ dSinθ=nλ (n=0,1,2…)                                            		    (1)                          
+
+Position of bright fringe on screen:
+ y_n=nλD/d  (n=0,1,2…)                                				    (2)
+where:
+θ: Diffraction angle (rad)
+d: Slit spacing (m)
+λ: Wavelength of light (m)
+D: Distance from slit to screen (m)
+n: Order of the fringe
+When n = 0, θ = 0, which corresponds to the central bright fringe.
+	Destructive Interference: Destructive interference occurs where two waves are completely out of phase. In other words, when two waves are out of phase by 180° or π,
+Fig. 3. Schematic diagram of destructive interference.(add image from images/theory_fig3.png)
+
+	dSinθ=(n+1/2)λ (n=0,1,2…)                                     (3) 
+Position of dark fringe on screen:
+ y_n=(n+1/2)λD/d  (n=0,1,2…)                    	        (4)
+where:
+θ: dDiffraction angle (rad)
+d: Slit spacing (m)
+λ: Wavelength of light (m)
+D: Distance from slit to screen (m)
+	Interference Fringes
+When two coherent light waves interfere,alternate dark and bright bands observed on the. These are called interference fringes.
+	Young's Double Slit Experiment
+When light passes through a single pinhole S and then through two closely spaced pinholes S1 and S2 seperated by distance D, producing alternating bright and dark fringes. 
+	The distance between the two slits is d.
+	The screen is placed at distance D.
+	The sources S1 and S2 must be coherent.
+	Coherent Sources: Two or more sources are said to be coherent sources if the waves originating from them, have same frequency (or wavelength) and bear a constant phase difference with time. 
+They can be obtained via two different methods as follows:
+	Division of Wavefront
+I   Lloyd's mirror: slit S and its virtual image S' act as coherent sources. 
+II     Fresnel's biprism: Two Coherent sources are formed by refraction through a biprism.
+	Division of Amplitude
+I 	Thin films:  Coherence is obtained by partial reflection and transmission of light..
+II	Fringe width: It is defined as the distance between two alternative dark or bright fringes.
+Expression for fringe width:
+                                                 β=λD/d                                             (5)
+where:
+𝛽 = Fringe width (m)
+λ = Wavelength of wave (nm)
+d = Distance between the slits (m)
+D = Distance from slits to the screen
+The expression for fringe width is the same for bright and dark fringes.
+PRE-TEST
+Q1. Young’s double slit experiment demonstrates the
+A) Particle nature of light
+B) Wave nature of light
+C) Thermal nature of light
+D) Electrical nature of light
+Correct Answer: B) Wave nature of light
+Q2. Constructive interference occurs when the path difference between two waves is
+A) (2n+1)λ/2
+B) nλ
+C) λ/4
+D) Zero only
+Correct Answer: B) nλ
+Q3. The condition for destructive interference in Young’s double slit experiment is
+A) dsin⁡θ=nλ
+B) dsin⁡θ=(n+1/2)λ
+C) dsin⁡θ=λ
+D) dsin⁡θ=2nλ
+Correct Answer: B) dsin⁡θ=(n+1/2)λ
+Q4. The fringe width βin Young’s double slit experiment is given by
+A) β=d/λD
+B) β=D/λd
+C) β=λD/d
+D) β=λdD
+Correct Answer: C) β=λD/d
+Q5. Two sources are said to be coherent if they
+A) Have different wavelengths
+B) Emit waves of varying phase difference
+C) Have the same frequency and constant phase difference
+D) Are placed very close to each other
+Correct Answer: C) Have the same frequency and constant phase difference
+PROCEDURE
+Procedure for the experiment is as follows:
+To study the Young's double slit experiment.
+Step 1: Set some values of D (distance from slits to the screen).
+Step 2: Set the value of d (distance between the slits).
+Step 3: Set value of λ (wavelength) for 𝛽 (fringe width).
+Study the graph in order to understand fringe width, which is given by
+β=λD/d
+Perform the following experiment:
+verify the wavelength (λ_t) of the given monochromatic source and to find out the percentage error:
+	Set some value of D (distance from slits to the screen).
+	Set value of d (distance between the slits).
+	Set value of λ or λ_t (theoretical wavelength).
+Calculate the value of fringe width (𝛽).
+Fig. 4. Young’s Double-Slit Interference (add image from images/procedure_fig1.png)
+
+	Repeat the experiment 5-6 times, and each time calculate the corresponding value of λ_c.
+	Obtain the calculated value λ_c by calculating the mean.
+	Verify the values of calculated λ_c  and given λ_t and thereby calculate the percentage error.
+where, λ_c is the calculated wavelength. λ_t is the theoretical wavelength.
+
+POST-TEST
+	In which of the following is the interference due to the division of wave front?
+ a: Young’s double slit experiment
+ b: Demonstration colours of thin film
+ c: Lloyd’s mirror experiment
+ d: Fresnel’s biprism experiment
+2. If a torch is used in place of monochromatic light in Young’s experiment what will happen?
+ a: Fringe will appear for a moment then it will disappear
+ b: No fringes will appear
+ c: Only bright fringes will appear
+ d: Fringes will occur as from monochromatic light
+3. The fringe width in YDSE is doubled if:
+ a: The wavelength of light is doubled
+ b: The screen distance is doubled
+ c: The slit separation is halved
+ d: Any of the above
+4. In Young’s double slit experiment, the condition for the formation of a dark fringe is:
+a: Path difference	=	nλ
+b: Path difference	=	λ/2
+c: Path difference	=	(2n+1)λ/2
+d: Path difference =	(n+1)
+Answer: C. Path difference = (2n+1)λ/2
+5. If the path difference between two coherent light waves is λ/2, what type of interference occurs?
+ a: Constructive interference
+ b: Destructive interference
+ c: No interference
+ d: Maximum intensity
+
+REFERENCES
+Optics -Author: Ajoy Ghatak -Year: sixth Edition
+Concise Engineering Physics: Dr Shiva Kant Pathak
