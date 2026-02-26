@@ -20,5 +20,6 @@ The experiment is designed to verify the wavelength of the given monochromatic l
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Sania Verma | Student | Mechanical Engineering | Dayalbagh Educational Institute(D.E.I.) | saniav2711@gmail.com
+1 | Deepak kumar | Student | Physics and Computer Science | Dayalbagh Educational Institute(D.E.I.) | kumar041232@gmail.com
+2 | Sania Verma | Student | Mechanical Engineering | Dayalbagh Educational Institute(D.E.I.) | saniav2711@gmail.com
 
