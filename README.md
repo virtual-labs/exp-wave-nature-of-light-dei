@@ -8,8 +8,7 @@
 
 ### About the Experiment 
 
-The experiment is designed to verify the wavelength of the given monochromatic light source.
-
+Young’s double-slit experiment demonstrates that light exhibits wave behavior by producing an interference pattern of bright and dark fringes when passed through two closely spaced slits. This pattern confirms that light waves superpose, reinforcing at some points and canceling at others.
 <b>Name of Developer | <b> Professor Sukhdev Roy 
 :--|:--|
 <b> Institute | <b>  Dayalbagh Educational Institute(D.E.I.)
