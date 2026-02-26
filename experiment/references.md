@@ -1,14 +1,43 @@
-1. Ghatak, A. (2012). *Optics* (6th ed.). McGraw-Hill Education.
-   [https://www.mheducation.co.in/optics-9780070699175-india](https://www.mheducation.co.in/optics-9780070699175-india)
+### Textbooks
 
-2. Pathak, S. K. *Concise Engineering Physics*. S. Chand Publishing.
-   [https://www.schandpublishing.com/books/engineering-physics](https://www.schandpublishing.com/books/engineering-physics)
+1. OpenStax. (2016). *University Physics Volume 3*. OpenStax CNX.  
+   https://openstax.org/details/books/university-physics-volume-3  
+   (Chapter 3.2: Young's Double-Slit Interference; constructive condition \( d\sin\theta = m\lambda \).)
 
-3. NCERT. (2023). *Physics Part II, Class XII – Chapter 10: Wave Optics*. National Council of Educational Research and Training.
-   [https://ncert.nic.in/textbook.php?leph2=10-10](https://ncert.nic.in/textbook.php?leph2=10-10)
+2. OpenStax. (2016). *College Physics*. OpenStax.  
+   https://openstax.org/details/books/college-physics  
+   (Chapter 27.3: Young's Double-Slit Experiment; intensity distribution patterns.)
 
-4. Young, H. D., & Freedman, R. A. (2019). *University Physics with Modern Physics* (15th ed.). Pearson.
-   [https://www.pearson.com/en-us/subject-catalog/p/university-physics-with-modern-physics/P200000006795](https://www.pearson.com/en-us/subject-catalog/p/university-physics-with-modern-physics/P200000006795)
+3. Hecht, E. (2017). *Optics* (5th ed.). Pearson.  
+   (Chapter 4: Interference theory; detailed Young's experimental setup and coherence conditions.)
 
-5. HyperPhysics. *Young's Double Slit Experiment*. Georgia State University, Department of Physics and Astronomy.
-   [http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/slits.html](http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/slits.html)
+4. Pedrotti, F. L., Pedrotti, L. S., & Pedrotti, F. L. (2017). *Introduction to Optics* (3rd ed.). Cambridge University Press.  
+   (Chapter 10: Young's experiment and fringe visibility.)
+
+5. Serway, R. A., & Jewett, J. W. (2018). *Physics for Scientists and Engineers* (9th ed.). Cengage Learning.  
+   (Chapter 37: Wave optics and mathematical treatment of double-slit interference.)
+
+6. Ghatak, A. (2025). *Optics* (8th ed.). McGraw Hill Education India.  
+   ISBN: 9789355328595. Published: August 28, 2024.
+
+---
+
+### Online Resources
+
+University-hosted materials with simulations and animations.
+
+1. Physics LibreTexts. (2024). *27.3: Young's Double Slit Experiment*.  
+   https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_(OpenStax)/27:_Wave_Optics/27.03:_Youngs_Double_Slit_Experiment  
+   (Discussion of coherence and path difference.)
+
+2. Lumen Learning. (Ongoing). *Young's Double Slit Experiment*.  
+   https://courses.lumenlearning.com/suny-physics/chapter/27-3-youngs-double-slit-experiment/  
+   (Explanation of monochromatic light fringe formation.)
+
+3. Wikipedia contributors. (2026). *Double-slit experiment*.  
+   https://en.wikipedia.org/wiki/Double-slit_experiment#Young's_experiment  
+   (Historical context and Young's 1801 experimental setup.)
+
+4. BCCampus Pressbooks. (2016). *12.3 Young's Double Slit Experiment*.  
+   https://pressbooks.bccampus.ca/introductorygeneralphysics2phys1207/chapter/27-3-youngs-double-slit-experiment/  
+   (Phase difference and interference condition.)
