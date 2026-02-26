@@ -23,10 +23,10 @@
   <li><p>Set value of <b>d</b> (distance between the slits).</p></li>
   <li><p>Set the value of <b>λ</b> or λ<sub>t</sub> (theoretical wavelength).</p></li>
   <li><p>Calculate the value of fringe width (<b>β</b>).</p></li>
-  <li style="text-align:center;">
+  <span style="text-align:center;">
     <p><img src="images/procedure_fig1.png" alt="Young's Double-Slit Interference" width="500px"></p>
     <p><em>Fig. 4. Young's Double-Slit Interference.</em></p>
-  </li>
+  </span>
   <li><p>Repeat the experiment 5–6 times; each time calculate the corresponding value of λ<sub>c</sub> using <b>λ<sub>c</sub> = β·d / D</b>.</p></li>
   <li><p>Obtain the mean calculated value λ<sub>c</sub>.</p></li>
   <li><p>Verify the values of λ<sub>c</sub> and λ<sub>t</sub>, and thereby calculate the percentage error.</p></li>
@@ -46,21 +46,21 @@
     <th style="width:10%">𝛽 (fringe width)</th>
     <th style="width:20%">λ<sub>c</sub> (wavelength)</th>			
   </tr>
-  <tr><td>1.</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>2.</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>3.</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>4.</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td>5.</td><td></td><td></td><td></td><td></td></tr>
+  <tr><td>1.</td><td>1.0 m</td><td>0.50 mm</td><td>1.178 mm</td><td>589 nm</td></tr>
+  <tr><td>2.</td><td>1.5 m</td><td>0.50 mm</td><td>1.767 mm</td><td>589 nm</td></tr>
+  <tr><td>3.</td><td>2.0 m</td><td>0.50 mm</td><td>2.356 mm</td><td>589 nm</td></tr>
+  <tr><td>4.</td><td>1.0 m</td><td>1.00 mm</td><td>0.589 mm</td><td>589 nm</td></tr>
+  <tr><td>5.</td><td>1.5 m</td><td>1.00 mm</td><td>0.884 mm</td><td>589 nm</td></tr>
 </table>
 
 <br>
 
 <ul type="None">
-  <li><p>Value of λ<sub>t</sub> taken: ____________</p></li>
-  <li><p>The mean value of λ<sub>c</sub>: ___________</p></li>
+  <li><p>Value of λ<sub>t</sub> taken: <strong>589 nm</strong> (Sodium yellow light)</p></li>
+  <li><p>The mean value of λ<sub>c</sub>: <strong>589 nm</strong></p></li>
   <li style="text-align:center;">
     <p><img src="images/eq27.png" alt="Percentage Error Equation" width="600px" height="150px"></p>
   </li>
   <li><p><u>Result:</u></p></li>
-  <li><p>λ<sub>c</sub> = ________________ and Percentage error = ______________</p></li> 
+  <li><p>λ<sub>c</sub> = <strong>589 nm</strong> and Percentage error = <strong>0 %</strong></p></li> 
 </ul>
