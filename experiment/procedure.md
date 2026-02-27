@@ -1,4 +1,4 @@
-<strong><p style="color:#2867B2;">To study the Young's Double Slit Experiment</p></strong>
+<strong><p style="color:#2867B2;">To study Interference phenomenon with the Young's Double Slit Experiment</p></strong>
 
 <ul type="None">
   <li><p><b>Step 1:</b> Set some value for <b>D</b> (distance from slits to the screen).</p></li>
@@ -22,7 +22,7 @@
   <li><p>Set some value for <b>D</b> (distance from slits to the screen).</p></li>
   <li><p>Set value of <b>d</b> (distance between the slits).</p></li>
   <li><p>Set the value of <b>λ</b> or λ<sub>t</sub> (theoretical wavelength).</p></li>
-  <li><p>Calculate the value of fringe width (<b>β</b>).</p></li>
+  <li><p>Measure the value of fringe width (<b>β</b>) from the scale on the screen.</p></li>
   <span style="text-align:center;">
     <p><img src="images/procedure_fig1.png" alt="Young's Double-Slit Interference" width="900px"></p>
     <p><em>Fig. 4. Young's Double-Slit Interference.</em></p>
@@ -31,26 +31,27 @@
   <li><p>Obtain the mean calculated value λ<sub>c</sub>.</p></li>
   <li><p>Verify the values of λ<sub>c</sub> and λ<sub>t</sub>, and thereby calculate the percentage error.</p></li>
   <li><p>Where:<br>
-      λ<sub>c</sub> = calculated value of wavelength.<br>
-      λ<sub>t</sub> = theoretical value of wavelength.</p>
+      λ<sub>c</sub> = Measured value of wavelength.<br>
+      λ<sub>t</sub> = Theoretical value of wavelength.</p>
   </li>
 </ol>
 
 <br>
-
-<table style="width:100%; border-collapse: collapse;" border="1">
+<strong>Table 1. Test values for determining the wavelength of light</strong>
+</br>
+<table style="width:100%; border-collapse: collapse;" border="1"; >
   <tr>
-    <th style="width:5%">S.No</th>
-    <th style="width:20%">D (distance from slits to screen)</th>
-    <th style="width:20%">d (distance between slits)</th>
-    <th style="width:10%">𝛽 (fringe width)</th>
-    <th style="width:20%">λ<sub>c</sub> (wavelength)</th>			
+    <th style="width:5%"; >S.No</th>
+    <th style="width:20%;text-align:center">D </br> (distance from slits to screen)</th>
+    <th style="width:20%; text-align:center">d </br> (distance between slits)</th>
+    <th style="width:10%; text-align:center">𝛽 </br>(fringe width)</th>
+    <th style="width:20%; text-align:center">λ <sub>c</sub></br> (wavelength)</th>			
   </tr>
-  <tr><td>1.</td><td>1.0 m</td><td>0.50 mm</td><td>1.178 mm</td><td>589 nm</td></tr>
-  <tr><td>2.</td><td>1.5 m</td><td>0.50 mm</td><td>1.767 mm</td><td>589 nm</td></tr>
-  <tr><td>3.</td><td>2.0 m</td><td>0.50 mm</td><td>2.356 mm</td><td>589 nm</td></tr>
-  <tr><td>4.</td><td>1.0 m</td><td>1.00 mm</td><td>0.589 mm</td><td>589 nm</td></tr>
-  <tr><td>5.</td><td>1.5 m</td><td>1.00 mm</td><td>0.884 mm</td><td>589 nm</td></tr>
+  <tr  style="text-align:center"><td>1.</td><td>1.0 m</td><td>0.50 mm</td><td>1.178 mm</td><td>589 nm</td></tr>
+  <tr  style="text-align:center"><td>2.</td><td>1.5 m</td><td>0.50 mm</td><td>1.767 mm</td><td>589 nm</td></tr>
+  <tr  style="text-align:center"><td>3.</td><td>2.0 m</td><td>0.50 mm</td><td>2.356 mm</td><td>589 nm</td></tr>
+  <tr  style="text-align:center"><td>4.</td><td>1.0 m</td><td>1.00 mm</td><td>0.589 mm</td><td>589 nm</td></tr>
+  <tr  style="text-align:center"><td>5.</td><td>1.5 m</td><td>1.00 mm</td><td>0.884 mm</td><td>589 nm</td></tr>
 </table>
 
 <br>
