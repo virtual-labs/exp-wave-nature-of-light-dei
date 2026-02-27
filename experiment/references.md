@@ -17,8 +17,8 @@
 5. Serway, R. A., & Jewett, J. W. (2018). *Physics for Scientists and Engineers* (9th ed.). Cengage Learning.  
    (Chapter 37: Wave optics and mathematical treatment of double-slit interference.)
 
-6. Ghatak, A. (2025). *Optics* (8th ed.). McGraw Hill Education India.  
-   ISBN: 9789355328595. Published: August 28, 2024.
+6. Ghatak, A. (2024). *Optics* (8th ed.). McGraw Hill Education India.  
+   (Chapter 13: Two bean interference by division of wavefront)
 
 ---
 
