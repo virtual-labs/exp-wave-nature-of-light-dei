@@ -1,0 +1,175 @@
+﻿{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Young's double slit experiment demonstrates the",
+      "answers": {
+        "a": "Particle nature of light",
+        "b": "Wave nature of light",
+        "c": "Thermal nature of light",
+        "d": "Electrical nature of light"
+      },
+      "explanations": {
+        "a": "Incorrect: Particle nature is demonstrated by the photoelectric effect, not YDSE.",
+        "b": "Correct: YDSE produces interference fringes, which is a wave phenomenon.",
+        "c": "Incorrect: Light has no thermal nature in this context.",
+        "d": "Incorrect: Light is not an electrical phenomenon in this context."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Constructive interference occurs when the path difference between two waves is",
+      "answers": {
+        "a": "(2n+1)λ/2",
+        "b": "nλ",
+        "c": "λ/4",
+        "d": "Zero only"
+      },
+      "explanations": {
+        "a": "Incorrect: This is the condition for destructive interference.",
+        "b": "Correct: Path difference = nλ leads to constructive interference (n = 0, 1, 2, …).",
+        "c": "Incorrect: λ/4 does not directly correspond to constructive or destructive interference.",
+        "d": "Incorrect: n = 0 is one special case; all integer multiples of λ give constructive interference."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. The condition for destructive interference in Young's double slit experiment is",
+      "answers": {
+        "a": "d sinθ = nλ",
+        "b": "d sinθ = (n + 1/2)λ",
+        "c": "d sinθ = λ",
+        "d": "d sinθ = 2nλ"
+      },
+      "explanations": {
+        "a": "Incorrect: This is the condition for constructive interference (bright fringes).",
+        "b": "Correct: Half-integer path difference causes complete cancellation (dark fringes).",
+        "c": "Incorrect: This is only the n = 1 bright fringe condition.",
+        "d": "Incorrect: 2nλ is not the standard condition for dark fringes."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. The fringe width β in Young's double slit experiment is given by",
+      "answers": {
+        "a": "β = d / λD",
+        "b": "β = D / λd",
+        "c": "β = λD / d",
+        "d": "β = λdD"
+      },
+      "explanations": {
+        "a": "Incorrect: The formula inverts the correct relationship.",
+        "b": "Incorrect: This has the wrong arrangement of variables.",
+        "c": "Correct: β = λD/d is the standard fringe-width formula.",
+        "d": "Incorrect: This would increase with d, which contradicts the physics."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Two sources are said to be coherent if they",
+      "answers": {
+        "a": "Have different wavelengths",
+        "b": "Emit waves of varying phase difference",
+        "c": "Have the same frequency and constant phase difference",
+        "d": "Are placed very close to each other"
+      },
+      "explanations": {
+        "a": "Incorrect: Coherent sources must have the same wavelength.",
+        "b": "Incorrect: A varying phase difference destroys coherence and hence fringes.",
+        "c": "Correct: Coherence requires identical frequency and a time-invariant phase difference.",
+        "d": "Incorrect: Proximity alone does not make sources coherent."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6. Who performed the original double slit experiment to demonstrate the wave nature of light?",
+      "answers": {
+        "a": "Sir Isaac Newton",
+        "b": "Albert Einstein",
+        "c": "Thomas Young",
+        "d": "James Clerk Maxwell"
+      },
+      "explanations": {
+        "a": "Incorrect: Newton proposed the corpuscular (particle) theory of light.",
+        "b": "Incorrect: Einstein explained the photoelectric effect using photons.",
+        "c": "Correct: Thomas Young performed the double slit experiment in 1801.",
+        "d": "Incorrect: Maxwell developed the electromagnetic theory of light."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7. In YDSE, what is the path difference at the central bright fringe?",
+      "answers": {
+        "a": "λ/2",
+        "b": "λ",
+        "c": "2λ",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "Incorrect: λ/2 path difference gives destructive interference.",
+        "b": "Incorrect: λ corresponds to the first bright fringe (n=1), not the central one.",
+        "c": "Incorrect: 2λ corresponds to the second order bright fringe.",
+        "d": "Correct: At the centre, both slits are equidistant so path difference = 0, giving maximum intensity."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8. In YDSE, if the distance D from slits to screen is increased, the fringe width β",
+      "answers": {
+        "a": "Decreases",
+        "b": "Increases",
+        "c": "Remains the same",
+        "d": "Becomes zero"
+      },
+      "explanations": {
+        "a": "Incorrect: β = λD/d, so increasing D increases β.",
+        "b": "Correct: β is directly proportional to D.",
+        "c": "Incorrect: Fringe width is not independent of D.",
+        "d": "Incorrect: β cannot become zero unless D = 0."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9. The phase difference corresponding to a path difference of λ (one wavelength) is",
+      "answers": {
+        "a": "π",
+        "b": "π/2",
+        "c": "2π",
+        "d": "4π"
+      },
+      "explanations": {
+        "a": "Incorrect: Phase difference π corresponds to path difference λ/2.",
+        "b": "Incorrect: Phase difference π/2 corresponds to path difference λ/4.",
+        "c": "Correct: One complete wavelength (λ) corresponds to a phase difference of 2π radians.",
+        "d": "Incorrect: Phase difference 4π corresponds to path difference 2λ."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10. In YDSE, if the wavelength of light used is increased, the fringe width β",
+      "answers": {
+        "a": "Decreases",
+        "b": "Remains the same",
+        "c": "Increases",
+        "d": "Becomes zero"
+      },
+      "explanations": {
+        "a": "Incorrect: β = λD/d, so β increases with λ.",
+        "b": "Incorrect: Fringe width depends on wavelength.",
+        "c": "Correct: β is directly proportional to λ.",
+        "d": "Incorrect: β becomes zero only if λ = 0."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
