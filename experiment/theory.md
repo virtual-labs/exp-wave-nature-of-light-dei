@@ -27,7 +27,7 @@ A wave is a periodic disturbance that propagates through space or a medium, tran
 
 ### 3. Interference
 
-When two light waves of the same amplitudes travel simultaneously in the same direction and have a constant phase difference, there is a modification in the intensity of light in the region of superposition. This modification of intensity due to the superposition of two (or more) waves is called **interference**.
+When two coherent light waves, i.e., have a constant phase difference superpose on each other, there is a modification in the intensity of light in the region of superposition. This variation in intensity is the interference phenomenon.
 
 Interference produces two types of fringes:
 
@@ -89,7 +89,7 @@ When two coherent light waves interfere, **alternate dark and bright bands** are
 
 ### 5. Young's Double Slit Experiment (YDSE)
 
-When light passes through a single pinhole **S** and then through two closely spaced pinholes **S₁** and **S₂** separated by distance **d**, two spherical coherent waves emerge, producing alternating bright and dark fringes on a screen.
+In this experiment two coherent sources  are created from one source by division of wavefront. When light passes through a single pinhole **S** and then through two closely spaced pinholes **S₁** and **S₂** separated by distance **d**, two spherical coherent waves emerge, producing alternating bright and dark fringes on a screen.
 
 Key parameters:
 - **d** : distance between the two slits
@@ -104,8 +104,9 @@ Key parameters:
 
 #### Division of Wavefront
 
-1. **Lloyd's mirror** – Slit S and its virtual image S′ act as coherent sources.
-2. **Fresnel's biprism** – Two coherent sources formed by refraction through a biprism.
+1. **Young's double-slit** - Slits S<sub>1</sub> and S<sub>2</sub> act as coherent sources.
+2. **Lloyd's mirror** – Slit S and its virtual image S′ act as coherent sources.
+3. **Fresnel's biprism** – Two coherent sources formed by refraction through a biprism.
 
 #### Division of Amplitude
 

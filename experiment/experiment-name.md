@@ -1,1 +1,1 @@
-## Wave nature of light with Young’s Double-Slit experiment
+## Wave Nature of Light with Young’s Double-Slit Experiment
