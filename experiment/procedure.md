@@ -24,7 +24,7 @@
   <li><p>Set the value of <b>λ</b> or λ<sub>t</sub> (theoretical wavelength).</p></li>
   <li><p>Calculate the value of fringe width (<b>β</b>).</p></li>
   <span style="text-align:center;">
-    <p><img src="images/procedure_fig1.png" alt="Young's Double-Slit Interference" width="500px"></p>
+    <p><img src="images/procedure_fig1.png" alt="Young's Double-Slit Interference" width="900px"></p>
     <p><em>Fig. 4. Young's Double-Slit Interference.</em></p>
   </span>
   <li><p>Repeat the experiment 5–6 times; each time calculate the corresponding value of λ<sub>c</sub> using <b>λ<sub>c</sub> = β·d / D</b>.</p></li>
