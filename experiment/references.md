@@ -18,7 +18,7 @@
    (Chapter 37: Wave optics and mathematical treatment of double-slit interference.)
 
 6. Ghatak, A. (2024). *Optics* (8th ed.). McGraw Hill Education India.  
-   (Chapter 13: Two bean interference by division of wavefront)
+   (Chapter 13: Two beam interference by division of wavefront)
 
 ---
 
